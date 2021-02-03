@@ -49,3 +49,5 @@ return (
 
 
 }
+
+export {ThemeProvider , ThemeContext}
